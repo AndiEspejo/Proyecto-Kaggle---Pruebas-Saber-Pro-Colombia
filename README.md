@@ -15,14 +15,13 @@
 
 ## Estado del Proyecto
 
-**Entrega Actual:** Entrega 1
+**Entrega Actual:** Entrega 2
 
 ### Contenido de la Entrega 1
 
 - ✅ README.md (este archivo)
 - ✅ 01 - exploración.ipynb
+- ✅ 02 - preprocesado.ipynb
 
----
-
-**Repositorio del proyecto**  
-Universidad de Antioquia - Modelos 1
+### Video entrega 2
+https://www.youtube.com/watch?v=_nWMRPaaAVU
